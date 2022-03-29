@@ -107,7 +107,7 @@ div[class$="slider_button"] {
 li[class^="product"] {
   /*width: 1041px; */
   min-height: 100vh;
-  border: dashed 2px rgb(94, 255, 0);
+  /* border: dashed 2px rgb(94, 255, 0); */
   display: grid;
   grid-template-columns: 1fr 1fr;
   align-content: center;
@@ -206,7 +206,7 @@ li[class^="product"].highlight .fundo {
   object-fit: contain;
   left: 0%;
   top: 190px;
-  border: 1px solid;
+  /* border: 1px solid; */
   object-position: -30px;
   transition: ease-in 700ms;
 }
