@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09e72a8b.css",
+    "main.js": "/static/js/main.5d203a71.js",
+    "static/js/787.d0848084.chunk.js": "/static/js/787.d0848084.chunk.js",
+    "static/media/grafismos.mp4": "/static/media/grafismos.5db3ee6da072280bce5d.mp4",
+    "static/media/difusor.png": "/static/media/difusor.ff7a158a26a76173a144.png",
+    "static/media/cremeHidratnte.png": "/static/media/cremeHidratnte.bf62e987f4053db39f1a.png",
+    "static/media/saboneteliquido.png": "/static/media/saboneteliquido.4f74357aa69994c1e284.png",
+    "static/media/desodorante.png": "/static/media/desodorante.7337ad6394da06a40205.png",
+    "static/media/modelo_feminino_01.jpg": "/static/media/modelo_feminino_01.257f198839ca68de0240.jpg",
+    "static/media/modelo_masculino_02.jpg": "/static/media/modelo_masculino_02.8acef1ff10d2b2172bfd.jpg",
+    "static/media/modelo_masculino_01.jpg": "/static/media/modelo_masculino_01.06ddb6ea136051e1b6e0.jpg",
+    "static/media/modelo_feminino_02.jpg": "/static/media/modelo_feminino_02.6adf84fce8610f382bd3.jpg",
+    "index.html": "/index.html",
+    "main.09e72a8b.css.map": "/static/css/main.09e72a8b.css.map",
+    "main.5d203a71.js.map": "/static/js/main.5d203a71.js.map",
+    "787.d0848084.chunk.js.map": "/static/js/787.d0848084.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09e72a8b.css",
+    "static/js/main.5d203a71.js"
+  ]
+}
