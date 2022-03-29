@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/online-cosmetic-store-react/static/css/main.824a7f6c.css",
+    "main.css": "/online-cosmetic-store-react/static/css/main.09e72a8b.css",
     "main.js": "/online-cosmetic-store-react/static/js/main.37ec4078.js",
     "static/js/787.d0848084.chunk.js": "/online-cosmetic-store-react/static/js/787.d0848084.chunk.js",
     "static/media/grafismos.mp4": "/online-cosmetic-store-react/static/media/grafismos.5db3ee6da072280bce5d.mp4",
@@ -13,12 +13,12 @@
     "static/media/modelo_masculino_01.jpg": "/online-cosmetic-store-react/static/media/modelo_masculino_01.06ddb6ea136051e1b6e0.jpg",
     "static/media/modelo_feminino_02.jpg": "/online-cosmetic-store-react/static/media/modelo_feminino_02.6adf84fce8610f382bd3.jpg",
     "index.html": "/online-cosmetic-store-react/index.html",
-    "main.824a7f6c.css.map": "/online-cosmetic-store-react/static/css/main.824a7f6c.css.map",
+    "main.09e72a8b.css.map": "/online-cosmetic-store-react/static/css/main.09e72a8b.css.map",
     "main.37ec4078.js.map": "/online-cosmetic-store-react/static/js/main.37ec4078.js.map",
     "787.d0848084.chunk.js.map": "/online-cosmetic-store-react/static/js/787.d0848084.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.824a7f6c.css",
+    "static/css/main.09e72a8b.css",
     "static/js/main.37ec4078.js"
   ]
 }
