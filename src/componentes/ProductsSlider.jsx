@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import $ from 'jquery';
-import producs from '../dados/producs_from_slider';
+import products from '../dados/products_from_slider';
 import './ProductsSlider.css';
 
 // import Video from '../video/grafismos.mp4'
@@ -78,7 +78,7 @@ class Products extends Component {
           </div>
         </div>
         <ol className="slider_products_conteiner">
-          {producs.map((item) => (
+          {products.map((item) => (
             <li key={item.id} className={`product_${item.id}`}>
               <div className="info_product">
                 <div className="main-wrapper">
