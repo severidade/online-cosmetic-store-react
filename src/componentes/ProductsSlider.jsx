@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import $ from 'jquery';
 import products from '../dados/products_from_slider';
 import './ProductsSlider.css';
+import VideoBackground from './videoBg/VideoBackground';
 
 // import Video from '../video/grafismos.mp4'
 
@@ -62,7 +63,6 @@ class Products extends Component {
   render() {
     return (
       <div id="slider_galery" className='hero'>
-        
         <div class="nav_slider">
           <div id="prevbutton" class="prev_slider_button">
             <svg class="prev_icon" width="12" height="20" viewBox="0 0 12 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -110,6 +110,7 @@ class Products extends Component {
 
                 </div>
               </div>
+              <VideoBackground src={`${item.video_bg}`}/>
             </li>
           ))}
         </ol>

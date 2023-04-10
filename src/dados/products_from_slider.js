@@ -21,7 +21,7 @@ const Products = [
     product_info: 'Perfumes de PITANGA, exuberante e cítrico, também tem o de ALGAS que vai ter transportar para um pôr do sol na praia.',
     product_picture: Sabonete,
     model: ModFem01,
-    video_bg: GraficVideo
+    video_bg: 'https://www.youtube.com/watch?v=jgm58cbu0kw&t=3311s',
   },
   {
     id: 2,
@@ -32,7 +32,8 @@ const Products = [
     product_info: 'Aposte no Desodorante Bem.Dito que entrega hidratação e ação calmante para a pele, ao mesmo tempo que absorve a umidade excessiva sem ingredientes agressivos.',
     product_picture: Desodorante,
     model: ModMasc02,
-    video_bg: GraficVideo
+    video_bg: 'https://www.youtube.com/watch?v=jgm58cbu0kw&t=3311s'
+    // video_bg: 'https://www.youtube.com/watch?v=jgm58cbu0kw=21m13s'
   },
   {
     id: 3,
@@ -43,7 +44,8 @@ const Products = [
     product_info: 'Os difusores de ambiente vão perfumar o seu lar com aromas marcantes. Tudo isso fica ainda mais potente se virar as varetas diariamente, assim elas proporcionam uma sensação de bem-estar e carinho por todos os ambientes.',
     product_picture: Difusor,
     model: ModFem02,
-    video_bg: GraficVideo
+    video_bg: 'https://www.youtube.com/watch?v=jgm58cbu0kw&t=3311s'
+    // video_bg: 'https://www.youtube.com/watch?v=z8154YEISsc'
   },
   {
     id: 4,
@@ -54,7 +56,8 @@ const Products = [
     product_info: 'Agora com cheirinho de amêndoas e extratos naturais de aloe vera, o Creme Hidratante em potinho de 100g é ideal para os cuidados com a sua pele no pós-banho. Ele espalha facilmente e fica com toque sequinho, vc já se cuidou hoje?',
     product_picture: Hidratante,
     model: ModMasc01,
-    video_bg: GraficVideo
+    video_bg: 'https://www.youtube.com/watch?v=jgm58cbu0kw&t=3311s'
+    // video_bg: 'https://www.youtube.com/watch?v=arWw-VkPZws'
   }
 ];
 
