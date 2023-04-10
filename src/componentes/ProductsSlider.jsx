@@ -56,6 +56,7 @@ class Products extends Component {
 
   }
 
+  
   componentDidMount (){
     this.slider();
   }
@@ -64,13 +65,14 @@ class Products extends Component {
     return (
       <div id="slider_galery" className='hero'>
         <div class="nav_slider">
-          <div id="prevbutton" class="prev_slider_button">
+          {/* <div id="prevbutton" class="prev_slider_button"> */}
+          <div id="nextbutton" class="next_slider_button">
             <svg class="prev_icon" width="12" height="20" viewBox="0 0 12 20" fill="none" xmlns="http://www.w3.org/2000/svg">
               <line x1="1.41421" y1="10" x2="10" y2="18.5858" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"></line>
               <line x1="1" y1="-1" x2="13.1421" y2="-1" transform="matrix(0.707107 -0.707107 -0.707107 -0.707107 0 10)" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"></line>
             </svg>
           </div>
-          <div id="nextbutton" class="next_slider_button">
+          <div id="prevbutton" class="prev_slider_button"> 
             <svg class="next_icon" width="12" height="20" viewBox="0 0 12 20" fill="none" xmlns="http://www.w3.org/2000/svg">
               <line x1="1" y1="-1" x2="13.1421" y2="-1" transform="matrix(-0.707107 0.707107 0.707107 0.707107 12 10)" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"></line>
               <line x1="10.5858" y1="10" x2="2" y2="1.41421" stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel"></line>
